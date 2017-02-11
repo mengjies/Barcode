@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Barcode</string>
+
+    <!--Permission-->
+    <string name="permission_init_alert">需要访问位置、读写存储卡、读取手机识别码等权限</string>
+    <string name="permission_ask_again">相关权限被禁止，应用将不能正常使用，需要到系统应用管理界面更改设置，是否去设置？</string>
+    <string name="title_settings_dialog">设置权限</string>
+    <string name="text_setting">设置</string>
+    <string name="text_ok">确认</string>
+    <string name="text_cancel">取消</string>
+    <!--zxing-->
+    <string name="scan_text">将条形码放入框内, 即可自动扫描</string>
+
+    <string name="item_barcode">扫一扫</string>
+    <string name="title_scan_barcode">扫描二维码</string>
+    <string name="menu_add_barcode">从相册选取条码</string>
+    <string name="perm_camera_rational">扫一扫功能需要摄像头权限</string>
+    <string name="perm_camera_not_granted">摄像头权限被禁止，扫一扫功能无法使用，是否到应用管理界面去设置？</string>
+
+</resources>
